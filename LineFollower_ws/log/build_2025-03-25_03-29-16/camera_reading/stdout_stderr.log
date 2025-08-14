@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/camera_reading/camera_reading.egg-info
+writing ../../build/camera_reading/camera_reading.egg-info/PKG-INFO
+writing dependency_links to ../../build/camera_reading/camera_reading.egg-info/dependency_links.txt
+writing entry points to ../../build/camera_reading/camera_reading.egg-info/entry_points.txt
+writing requirements to ../../build/camera_reading/camera_reading.egg-info/requires.txt
+writing top-level names to ../../build/camera_reading/camera_reading.egg-info/top_level.txt
+writing manifest file '../../build/camera_reading/camera_reading.egg-info/SOURCES.txt'
+reading manifest file '../../build/camera_reading/camera_reading.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/camera_reading/camera_reading.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ahmedmwafy/Project/build/camera_reading/build
+creating /home/ahmedmwafy/Project/build/camera_reading/build/lib
+creating /home/ahmedmwafy/Project/build/camera_reading/build/lib/camera_reading
+copying camera_reading/__init__.py -> /home/ahmedmwafy/Project/build/camera_reading/build/lib/camera_reading
+running install
+running install_lib
+creating /home/ahmedmwafy/Project/install/camera_reading/lib/python3.10/site-packages/camera_reading
+copying /home/ahmedmwafy/Project/build/camera_reading/build/lib/camera_reading/__init__.py -> /home/ahmedmwafy/Project/install/camera_reading/lib/python3.10/site-packages/camera_reading
+byte-compiling /home/ahmedmwafy/Project/install/camera_reading/lib/python3.10/site-packages/camera_reading/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/ahmedmwafy/Project/install/camera_reading/share/ament_index
+creating /home/ahmedmwafy/Project/install/camera_reading/share/ament_index/resource_index
+creating /home/ahmedmwafy/Project/install/camera_reading/share/ament_index/resource_index/packages
+copying resource/camera_reading -> /home/ahmedmwafy/Project/install/camera_reading/share/ament_index/resource_index/packages
+copying package.xml -> /home/ahmedmwafy/Project/install/camera_reading/share/camera_reading
+running install_egg_info
+Copying ../../build/camera_reading/camera_reading.egg-info to /home/ahmedmwafy/Project/install/camera_reading/lib/python3.10/site-packages/camera_reading-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/ahmedmwafy/Project/build/camera_reading/install.log'

@@ -1,0 +1,25 @@
+[0.479s] Invoking command in '/home/ahmedmwafy/Project/src/camera_reading': PYTHONPATH=/home/ahmedmwafy/Project/build/camera_reading/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ahmedmwafy/Project/install/camera_reading/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camera_reading build --build-base /home/ahmedmwafy/Project/build/camera_reading/build install --record /home/ahmedmwafy/Project/build/camera_reading/install.log --single-version-externally-managed install_data
+[0.712s] running egg_info
+[0.712s] writing ../../build/camera_reading/camera_reading.egg-info/PKG-INFO
+[0.712s] writing dependency_links to ../../build/camera_reading/camera_reading.egg-info/dependency_links.txt
+[0.712s] writing entry points to ../../build/camera_reading/camera_reading.egg-info/entry_points.txt
+[0.713s] writing requirements to ../../build/camera_reading/camera_reading.egg-info/requires.txt
+[0.713s] writing top-level names to ../../build/camera_reading/camera_reading.egg-info/top_level.txt
+[0.714s] reading manifest file '../../build/camera_reading/camera_reading.egg-info/SOURCES.txt'
+[0.714s] adding license file 'LICENSE'
+[0.715s] writing manifest file '../../build/camera_reading/camera_reading.egg-info/SOURCES.txt'
+[0.715s] running build
+[0.715s] running build_py
+[0.715s] copying camera_reading/read_camera.py -> /home/ahmedmwafy/Project/build/camera_reading/build/lib/camera_reading
+[0.715s] running install
+[0.716s] running install_lib
+[0.716s] copying /home/ahmedmwafy/Project/build/camera_reading/build/lib/camera_reading/read_camera.py -> /home/ahmedmwafy/Project/install/camera_reading/lib/python3.10/site-packages/camera_reading
+[0.717s] byte-compiling /home/ahmedmwafy/Project/install/camera_reading/lib/python3.10/site-packages/camera_reading/read_camera.py to read_camera.cpython-310.pyc
+[0.717s] running install_data
+[0.717s] running install_egg_info
+[0.719s] removing '/home/ahmedmwafy/Project/install/camera_reading/lib/python3.10/site-packages/camera_reading-0.0.0-py3.10.egg-info' (and everything under it)
+[0.719s] Copying ../../build/camera_reading/camera_reading.egg-info to /home/ahmedmwafy/Project/install/camera_reading/lib/python3.10/site-packages/camera_reading-0.0.0-py3.10.egg-info
+[0.720s] running install_scripts
+[0.736s] Installing read_camera script to /home/ahmedmwafy/Project/install/camera_reading/lib/camera_reading
+[0.736s] writing list of installed files to '/home/ahmedmwafy/Project/build/camera_reading/install.log'
+[0.753s] Invoked command in '/home/ahmedmwafy/Project/src/camera_reading' returned '0': PYTHONPATH=/home/ahmedmwafy/Project/build/camera_reading/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ahmedmwafy/Project/install/camera_reading/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camera_reading build --build-base /home/ahmedmwafy/Project/build/camera_reading/build install --record /home/ahmedmwafy/Project/build/camera_reading/install.log --single-version-externally-managed install_data
