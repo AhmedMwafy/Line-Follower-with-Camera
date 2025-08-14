@@ -13,6 +13,7 @@ If the line is lost, the robot rotates slowly in place to find it again.
 You’ll need:
 
 * **ROS 2 Humble** (or a compatible version)
+* **Gazebo**
 * **Python 3**
 
 ## ⚙️ How It Works
